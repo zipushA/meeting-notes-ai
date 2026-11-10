@@ -58,3 +58,10 @@ Create `backend/.env` based on `backend/.env.example`.
 ## Deliverables
 - GitHub repo: https://github.com/Rivka387/meeting-notes-ai
 - Live demo (or local demo instructions): https://meeting-notes-ai.onrender.com/
+
+
+---
+
+Repository maintained by [zipushA](https://github.com/zipushA).
+Original Git history preserved.
+
